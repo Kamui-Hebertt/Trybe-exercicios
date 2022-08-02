@@ -26,8 +26,8 @@
 ## Projetos realizados durante o módulo: :hourglass_flowing_sand:
                                                                                                  
 
-- [ ] [Projeto HTML & CSS]()
-- [ ] [Projeto Playground Functions]() 
+- [x] [Projeto HTML & CSS]()
+- [x] [Projeto Playground Functions]() 
 - [ ] [Projeto Meme Generator]()
 - [ ] [Projeto Arte com Pixels]()
 - [ ] [Projeto Lista de Tarefas]() 
