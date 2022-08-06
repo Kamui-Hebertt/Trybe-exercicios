@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+    .bg-dark
+    
+    {
+        max-width: 100%;
+        color:white;
+        --bs-bg-opacity: 1;
+        background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+      }
+
+
+#bigger-text{
+    resize: none;
+}
+
+h1{
+    text-align: center;
+}
+
+form{position:relative;
+left: 25rem;}
+
+.form-select{max-width: 17rem;}
