@@ -9,7 +9,7 @@ const newEmployees = (generateEmp) => {
 
 const generateEmp = (fullName) => {
   const email = fullName.toLowerCase().split(' ').join('_');
-  return email;
+  return `${fullName} email:${email}`;
 }
 
 console.log(newEmployees(generateEmp));
